@@ -32,14 +32,14 @@ font-size: 70px
 }
 
 @media (max-width: 700px) {
-  iframe {
+  .video {
     width: 300px;
      height: auto;
   } 
     } 
 
 @media (max-width: 500px) {
-  iframe {
+  .video {
     width: 200px;
     height: auto;
   }
